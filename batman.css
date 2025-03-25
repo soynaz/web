@@ -1,0 +1,44 @@
+ body{background-color: #77DD77;
+
+ }
+
+h1{ 
+	text-align: center;
+background-image: url(666.jpg);
+
+}
+
+
+
+
+
+#menuh{float: left;
+width: 100%;
+padding: 1px;
+margin: 1px;
+list-style-image: mone;
+}
+
+#menuh a{
+	float: left;
+	width: 100px;
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	background-color: rgba(0, 0, 0, 0.04);
+	padding:3px 5px;
+	border-right: 1px solid white;
+}
+
+#menuh a:hover {
+	background-color: red;
+
+}
+#menuh li{
+	display: inline;
+}
+ marquee{color:#F7C109; background-color: rgba(0, 0, 0, 0.8); border-color: #;
+
+ 
+ }
+
