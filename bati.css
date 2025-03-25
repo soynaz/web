@@ -1,0 +1,120 @@
+html,body{
+	 
+
+
+	 h1:#black;
+	 h3:#black;
+	height: 100%;
+}
+/*formato de el encabezado*/
+header{ font-family: Algerian;
+	color:white;
+	background-image: url(202.png);
+	display: block;
+	padding: 10px 0px;
+	height: 34%;
+
+
+}
+header h1{
+	color: #black ;
+	background: rgba(0,0,0,0.5);
+
+}
+
+header h3 
+{
+	color: black ;
+	background: rgba(0,0,0,0.5);
+
+}
+
+/*formato de el encabezado*/
+
+nav{
+	background-image: url(666.jpg);
+}
+/*formato de el encabezado*/
+section{ 
+
+	color: white;
+	
+	
+	width: 80%;
+	float: left;
+	padding-top: 60px;
+	padding-bottom: 30px;
+	overflow: auto;
+}
+
+
+article h1{
+	color: black;
+}
+/*formato de el pie de pagina */
+footer{ color: white;
+	
+	position: relative;
+	margin-top: 50px;
+	height: 40px;
+	padding: 5px 0px;
+	text-align: center;
+	clear: both;
+}
+/*formato dela seccion de la mini biografia*/
+aside{
+	color: white;
+	background-image: ;:  ;
+	float: right;
+	width: 19%;
+	border: 1px solid #black;
+
+
+}
+h1{
+	color: #black;
+}
+
+h3 {
+	color: black;
+}
+
+
+
+
+/*formato para la lista*/
+
+aside ul{
+
+	/*list-style-type: upper-roman;*/
+	list-style-position: outside;
+list-style-image: url(111.png);
+}
+
+hr{border-color: #black; }
+
+section h1{color:#black ;}
+
+
+#text3{
+	height: 50px;
+}
+}
+aside h1 {
+	color:#black;
+
+
+}
+aside p {
+	color:#;
+	background-color: rgba(0,0,0,0.5);
+}
+#catalogo{
+	float: right;
+}
+  #catalogo .font{
+
+  	float: left;
+  }
+
+ 
